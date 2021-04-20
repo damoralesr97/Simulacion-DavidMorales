@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;chart&apos; in &apos;Main.main(...)&apos; to &apos;c&apos;&#x0A;- Original project: &apos;Tarea1_Dados&apos;&#x0A;- Original element: &apos;Main.main(String[]).chart&apos;&#x0A;- Renamed element: &apos;chart&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;chart&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Main.java[Main~main~\[QString;@chart!688!944!699!703!QJFreeChart;!0!false" name="c" references="true" stamp="1618886364830" version="1.0"/>
+</session>

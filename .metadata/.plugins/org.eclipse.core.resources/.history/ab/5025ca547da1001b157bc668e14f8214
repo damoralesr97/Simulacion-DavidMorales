@@ -1,0 +1,25 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] numeroLanzamientos = {10};
+		
+		for (int lanzamiento: numeroLanzamientos) {
+			System.out.println(lanzamiento);
+			int[] resultados = new int[lanzamiento];
+			
+			for (int i = 0; i < lanzamiento; i++) {
+				System.out.println("da");
+				System.out.println(lanzarDados());
+			}
+		}
+
+	}
+	
+	static int lanzarDados() {
+		return ((int) (Math.random() * 6) + 1) + ((int) (Math.random() * 6) + 1);
+	}
+
+}

@@ -1,0 +1,43 @@
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartFrame;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.data.statistics.HistogramDataset;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] numeroLanzamientos = {10};
+		
+		for (int lanzamiento: numeroLanzamientos) {
+			HistogramDataset data = new HistogramDataset();
+			double[] resultados = new double[lanzamiento];
+			
+			for (int i = 0; i < lanzamiento; i++) {
+				resultados[i] = lanzarDados();
+			}
+			data.addSeries("David", resultados, 11);
+			
+			JFreeChart chart = ChartFactory.createHistogram(
+	                "Histograma - Simulacion (" + lanzamiento + " Valores)",
+	                "Suma",
+	                "Repeticiones",
+	                data,
+	                PlotOrientation.VERTICAL, true, true, false);
+
+	        // Mostrar Grafico
+	        ChartFrame frame = new ChartFrame("Simulacion", chart);
+	        frame.pack();
+	        frame.setVisible(true);
+			
+		}
+
+	}
+	
+	static int lanzarDados() {
+		return ((int) (Math.random() * 6) + 1) + ((int) (Math.random() * 6) + 1);
+	}
+
+}
