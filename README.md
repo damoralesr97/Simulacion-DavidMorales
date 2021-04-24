@@ -5,5 +5,5 @@
 * [Código](Tarea1_Dados/src/Main.java)
 
 ## Tarea 2 - Regresión COVID
-* [Informe](Tarea2-RegresionCovid.pdf)
+* [Informe](Tarea2_RegresionCovid/Tarea2-RegresionCovid.pdf)
 * [Código](Tarea2_RegresionCovid/Tarea2.ipynb)
