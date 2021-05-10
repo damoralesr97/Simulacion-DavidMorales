@@ -7,3 +7,7 @@
 ## Tarea 2 - Regresión COVID
 * [Informe](Tarea2_RegresionCovid/Tarea2-RegresionCovid.pdf)
 * [Código](Tarea2_RegresionCovid/Tarea2.ipynb)
+
+## Prueba 1
+* [Informe](Prueba1/Prueba1_Morales.pdf)
+* [Código](Prueba1/morales.ipynb)
