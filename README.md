@@ -11,3 +11,7 @@
 ## Prueba 1
 * [Informe](Prueba1/Prueba1_Morales.pdf)
 * [Código](Prueba1/morales.ipynb)
+
+## Examen interciclo
+* [Informe](ExamenInterciclo/ExamenIntercicloMorales.ipynb)
+* [Código](ExamenInterciclo/main.py)
