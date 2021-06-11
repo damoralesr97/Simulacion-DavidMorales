@@ -34,3 +34,8 @@
 ## Examen interciclo
 * [Informe](ExamenInterciclo/ExamenIntercicloMorales.ipynb)
 * [Código](ExamenInterciclo/main.py)
+
+## Proyecto Interciclo
+* [Informe](Proyecto%20Interciclo%20-%20Simulacion.pdf)
+* [Blog](https://damoralesr97.wixsite.com/my-site-2)
+* [Video](https://youtu.be/X0JirUXEqYU)
