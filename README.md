@@ -39,3 +39,8 @@
 * [Informe](Proyecto%20Interciclo%20-%20Simulacion.pdf)
 * [Blog](https://damoralesr97.wixsite.com/my-site-2)
 * [Video](https://youtu.be/X0JirUXEqYU)
+
+
+## Prueba 2
+* [Informe](Prueba2.pdf)
+* [Codigo](main.py)
