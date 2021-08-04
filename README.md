@@ -27,6 +27,9 @@
 * [Informe](Boletin1/PIB/informePib.pdf)
 * [Código](Boletin1/PIB/PIB.ipynb)
 
+## Proceso de vacunacion
+* [Código](procesoVacunacion.py)
+
 ## Prueba 1
 * [Informe](Prueba1/Prueba1_Morales.pdf)
 * [Código](Prueba1/morales.ipynb)
